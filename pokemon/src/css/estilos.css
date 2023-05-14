@@ -139,6 +139,9 @@ main .cartao .tipos {
   border-radius: 10px;
 }
 
+.modo-escuro .tipo-eletrico {
+  color: #020303;
+}
 .tipo-eletrico {
   background-color: #FFD700;
   padding: 8px;
